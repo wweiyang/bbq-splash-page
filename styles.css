@@ -63,7 +63,7 @@ h2 {
 /* Layout */
 
 .container-photo {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/ribs.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/ribs.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
