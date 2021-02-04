@@ -13,7 +13,7 @@ A splash page for signing up for a BBQ session. This project was to learn respon
 
 There weren’t many difficulties faced in this project. However, it did take some time to figure out the best way to structure the different elements, and also what styling to use.
 
-## Overview
+## Technologies overview
 
 - HTML
 - CSS
