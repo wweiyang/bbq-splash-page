@@ -1,5 +1,7 @@
 # BBQ splash page
 
+Link: https://wweiyang.github.io/bbq-splash-page/
+
 A splash page for signing up for a BBQ session. This project was to learn responsive design, taking the mobile-first approach when creating the page. Forms, gradients, transitions, and background images were also introduced in this project.
 
 ## Overall process of the project:
